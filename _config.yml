@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul portfolio"
+title                    : "Rahul's portfolio"
 title_separator          : "-"
 name                     : &name "Rahul Saravanan"
 description              : &description "personal description"
