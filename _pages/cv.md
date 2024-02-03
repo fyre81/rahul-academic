@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 ##### <i class="fa fa-graduation-cap fa_custom"></i> B.Tech. in GitHub, GitHub University, 2012
-###### <font size=”1”>Amrita School of Engineering, Coimbatore</font>
+###### <p style="font-size: 16px;">Amrita School of Engineering, Coimbatore</p>
 ##### <i class="fa fa-graduation-cap fa_custom"></i> M.S. in Jekyll, GitHub University, 2014
 ###### Goerge Mason University, Fairfax
 ##### <i class="fa fa-graduation-cap fa_custom"></i> Ph.D in Version Control Theory, GitHub University, 2018 (expected)
